@@ -2,9 +2,7 @@
 
 Get all currently authorized guest accounts from a specified Mist site via API
 
-[![ryanmadzima](https://img.shields.io/badge/version-1.0.0-red?style=flat-square)](https://github.com/ryanmadzima/guest_grabber)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue?style=flat-square)](https://www.python.org/)
- [![MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-orange?style=flat-square)](https://github.com/ryanmadzima/guest_grabber/blob/master/LICENSE)
 
 ## Installation
 
