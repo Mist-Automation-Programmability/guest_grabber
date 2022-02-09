@@ -17,9 +17,9 @@ pip install -r requirements.txt
 Then set the required configuration values in `guest_grabber.py`.
 
 The required values are:
-- `API_TOKEN` - Visit https://api.mist.com/api/v1/self/apitokens to generate a token if you do not already have one
-- `SITE_ID` - The unique ID of the site where guest accounts will be retrieved from
-- `ORG_ID` - ***Not implemented yet, disregard*** 
+- `API_TOKEN` - Create API token from /api/v1/self/apitokens or /api/v1/orgs/:org_id/apitokens to generate a token if you do not already have one
+- `ORG_ID` - The Organization ID for the org 
+
 
 
 ## Usage
@@ -32,5 +32,3 @@ python guest_grabber.py
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/)
